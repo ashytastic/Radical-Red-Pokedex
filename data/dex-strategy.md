@@ -419,7 +419,7 @@ Modest Nature
 - Wish
     comment = Wigglytuff has a great HP stat of 140. It can take several hits, but more importantly it has very big Wishes. Because Wish heals 50% of the user's HP stat, it can use Wish, switch out, and heal the incoming Pokémon for a large portion of their HP. This makes it a good support Pokémon on some teams.
 Apart from HP, Wigglytuff is very mediocre stat-wise. However, it has a good ability in Sheer Force, and many moves boosted by it. It has good STABs in Tri Attack and Moonblast along with tons of coverage. 
-    tags = Hardcore, Offense, 
+    tags = Hardcore, Offense
 }
 Grafaiai
 {
