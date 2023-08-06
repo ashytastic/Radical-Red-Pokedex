@@ -476,8 +476,8 @@ Meowscarada
 Ability: Protean
 Jolly Nature
 - Flower Trick
-- Shadow Claw
-- Knock Off
+- Play Rough
+- Sucker Punch
 - Triple Axel
     comment = Thanks to its excellent speed, solid attack, amazing movepool and the Protean ability, Meowscarada may very well be the best Grass starter that isn’t Mega Sceptile. Protean allows Meowscarada to be an incredibly versatile attacker that can switch its type to give STAB on any of its attacking moves, while also changing out what would have been one of its weaknesses into a neutral or even resisted type. While expecting Meowscarada to sweep entire boss battles is unrealistic, Meowscarada is absolutely capable of destroying or severely weakening 1-2 key threats in boss battles if used correctly. Life Orb is generally the preferred item to maximize damage without locking into one move and ruining the point of Protean, but there are cases where Sitrus Berry is preferable for survivability. In terms of the Hardcore E4, Meowscarda is capable of destroying Mega Swamperts, Dragonites, Hail Lorelei’s Tapu Fini, Bruno’s Mega Medicham (can also do heavy damage to Necrozma Duskmane), Agatha’s Yveltal (with Triple Axel Life Orb) or Calyrex Shadow (with Choice Scarf), Lance’s Mega Rayquaza (with Triple Axel Life Orb), Champ’s Primal Kyogre, Ultra Necrozma, and Arceus Ground. It is also able to troll Primal Dialga and severely weaken it by switching to Play Rough and then switching back to a Dark type move to make sure it doesn’t get one-shot by Flash Cannon, but if you want to use Meowscarada for this purpose a Sitrus Berry is likely preferable for survivability. Overall, Meowscarda is an incredible offensive mon if used correctly that other Grass starters could only wish they could match.
     tags = Hardcore, Offensive
