@@ -562,3 +562,20 @@ But for setting up Shell Smash, you have to survive a hit, in order to do that y
 Modest nature, as, after 2x speed, it can even outspeed Deoxys-Speed. Water Pulse is the option for most damage, and scald for the chance of burning physical attacker that may live scald (and also break Focus Sashes).
     tags = Normal, Offensive, Sweeper
 }
+Armaldo
+{
+    name = Arma
+    item = Assault Vest
+    ability = Skill Link
+    nature = Adamant/Impish
+    moves = Pin Missile, Rock Blast, Rapid Spin, Knock Off/Aqua Jet/Bulldoze/Earthquake
+    paste = Arma (Armaldo) @ Assault Vest
+Ability: Skill Link
+Adamant Nature
+- Pin Missile
+- Rock Blast
+- Rapid Spin
+- Knock Off
+  comment = Armaldo is surprisingly one of the best anti-hazard leads out there with Assault Vest. Rock Blast/Pin Missile allows you to break the sash of most of the leads, match up well with almost all the leads in RR, as well as allowing you to hit even resistant switch ins for solid damage.  Rapid Spin ensures that the only way the opposing lead is going to get rocks up is by killing Armaldo, which in turn allows you to get a revenge killer of your own in to ensure no hazards go up. If you win the 1v1, the rapid spin boost allows you to get one last move off. Knock off is great for getting rid of opposing items, potentially allowing a set-up sweeper to take advantage. Aqua Jet is great at getting a bit of poke damage before death if you're still outsped. Bulldoze allows you to lower the speed of the enemy pokemon, allowing your next pokemon to take advantage and finish the opposing pokemon off. Finally, earthquake is great for all around coverage against steel types.
+  tags = Normal, Offensive, MGM
+}
