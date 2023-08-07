@@ -203,6 +203,7 @@ function replaceAbilityString(ability){
         "ABILITY_BLUBBERDEFENSE": "ABILITY_BLUBBER_DEFENSE",
         "ABILITY_QUEENLYMAJESTY": "ABILITY_QUEENLY_MAJESTY",
         "ABILITY_PROPELLERTAIL": "ABILITY_PROPELLER_TAIL",
+		"ABILITY_NEUTRALIZINGGAS": "ABILITY_NEUTRALIZING_GAS",
     }
     if(ability in replaceStringObject){
         return replaceStringObject[ability]
