@@ -24,7 +24,7 @@ function regexMovesDescription(textMovesDescription, moves){
                 move = []
             else if(move.length > 0){
                 for(let i = 0; i < move.length; i++)
-                    moves[move[i]]["description"] = [line.replace(/\\+n/g, " ")]
+                    moves[move[i]]["description"] = [line.replace(/\\+n/g, " ").replace(/\\/g, "")]
             }
         }
     })
@@ -340,39 +340,44 @@ function regexMovesFlags(textMovesFlags, moves){
         if(/g(.*):/i.test(line)){
             flagName = line.match(/g(\w+):/i)[1].replace(/([A-Z])/g, ' $1').trim()
         }
-		if(flagName === "Punching Moves"){
-			flagName = "Iron Fist Affected Moves"
-		}
-		else if(flagName === "Sword Moves"){
-			flagName = "Sharpness Affected Moves"
-		}
-		else if(flagName === "Pulse Aura Moves"){
-			flagName = "Mega Launcher Affected Moves"
-		}
+        
+        if(flagName === "Punching Moves"){
+            flagName = "Iron Fist Affected Moves"
+        }
+        else if(flagName === "Sword Moves"){
+            flagName = "Sharpness Affected Moves"
+        }
+        else if(flagName === "Pulse Aura Moves"){
+            flagName = "Mega Launcher Affected Moves"
+        }
         else if(flagName === "Kicking Moves"){
-			flagName = "Striker Affected Moves"
-		}
-		else if(flagName === "Sheer Force Boosted Moves"){
-			flagName = "Sheer Force Affected Moves"
-		}
-		else if(flagName === "Biting Moves"){
-			flagName = "Strong Jaw Affected Moves"
-		}
-		else if(/recoil/i.test(flagName)){
-			flagName = "Recoil Moves"
-		}
-		else if(flagName === "Sound Moves"){
-			flagName = "Punk Rock Affected Moves"
-		}
+            flagName = "Striker Affected Moves"
+        }
+        else if(flagName === "Sheer Force Boosted Moves"){
+            flagName = "Sheer Force Affected Moves"
+        }
+        else if(flagName === "Biting Moves"){
+            flagName = "Strong Jaw Affected Moves"
+        }
+        else if(/recoil/i.test(flagName)){
+            flagName = "Recoil Moves"
+        }
+        else if(flagName === "Sound Moves"){
+            flagName = "Punk Rock Affected Moves"
+        }
+
         const matchMove = line.match(/MOVE_\w+/i) 
         if(matchMove && moves[matchMove[0]]){ 
             moves[matchMove[0]]["flags"].push(flagName) 
         }
     })
-	
-	Object.keys(moves).forEach(move => {
-        if(moves[move]["priority"] != 0){
-            moves[move]["flags"].push(`Priority ${moves[move]["priority"]}`)
+
+    Object.keys(moves).forEach(move => {
+        if(moves[move]["priority"] > 0){
+            moves[move]["flags"].push(`Prio Plus ${moves[move]["priority"]}`)
+        }
+        else if(moves[move]["priority"] < 0){
+            moves[move]["flags"].push(`Prio Minus ${moves[move]["priority"]}`)
         }
     })
 
