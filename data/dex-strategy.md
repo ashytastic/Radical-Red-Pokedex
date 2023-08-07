@@ -539,7 +539,7 @@ Modest Nature
 - Giga Drain
 - Leech Seed
     comment = Draining Kiss in combination with Triage is one of the most spammable attacks in the entire game. Comfey's utilizes it's low HP stat and its high defensive stats to consistently stay healthy with Draining Kiss' recovery using the priority of Triage to ensure you are always healthy before the opponent attacks. Calm Mind works wonderfully as it can increase the damage of Draining Kiss as well as provide extra survivability. Giga Drain is nice coverage for Water, Ground, and Rock types that also benefits from Triage's priority. Sparkly Swirl is a good for situations when you need to hit harder as well as providing valuable team support by clearing all status ailments on your team. Leech Seed is always a powerful defensive tool to provide valuable chip damage to anything Comfey can't damage very well, or it could utilize Synthesis to ensure it stays healthy. Since Draining Kiss is Comfey's main selling point you want to boost it's power as much as possible. Choice Specs is a very significant boost in power, while Pixie Plate is a good option if you want to keep the rest of your moveset readily available.
-    tags = Normal, Defensive, Offense, Support
+    tags = Normal, Defensive, Offensive, Support
 }
 Blastoise Mega
 {
@@ -594,5 +594,98 @@ Modest Nature
 - Ominous Wind
 - Substitute
   comment = Roserade is one of the most versatile pokemon in RR. Technician allows normally weak moves like Mega Drain and Ominous Wind to be boosted up to high levels. Mega Drain and Sludge Bomb are high stab moves, but can easily be blocked by steel types. Ominous Wind and Substitute take care of that and removes the prediction portion of Roserade. Not only that, Substitute allows you to fish for Ominous Winds omniboost, which can easily setup a sweep. Ominous Wind allows you to hit those pesky ghost types that try to switch into your poison type moves. If you're against a dragon heavy trainer, Dazzling is a great move for general coverage, or you can setup either Toxic Spikes or regular Spikes for chip if you're worried Roserade might get walled in a fight. Hazards also allow you to remove prediction. Realistically, any decent move is good in the fourth slot, it's up to your creativity!
+  tags = Normal, Offensive, MGM
+}
+Leavanny
+{
+   name = Leadvanny
+   item = Focus Sash, Mental Herb, Sitrus Berry
+   ability = Sharpness
+   evs = 6, 252, 0, 0, 0, 252 / / HP, Atk, Def, Sp.Atk, Sp.def, Speed
+   nature = Jolly
+   moves = Pounce, Shadow Claw/Leaf Blade, Sacred Sword, Sticky Web
+   paste = Leadvanny (Leavanny) @ Focus Sash  
+Ability: Sharpness   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pounce  
+- Leaf Blade  
+- Sacred Sword  
+- Sticky Web
+   comment = This is a very underrated lead that can set up Sticky Web quite easily while slowing down the opponent's lead with Pounce, sometimes even knocking it out. With the help of mental herb, it can get webs up on Aerodactyl, Infernape, and other unlikely matchups. Not only that, it can also handle scary threats such as Lorelei's rain abusers, and it can even survive a Triple Axel from the champion's Pheromosa if you swap its attack EVs for HP and give it a Sitrus Berry. Obviously, this Pokémon goes well with all kinds of hyper offensive teams, and it's the only Sticky Web setter in grass monotype runs, making it quite valuable there in particular. 
+     tags = Normal, Utility, Offensive
+}
+Clodsire
+{
+    name = King/Queen of the Derps
+    ability = Unaware
+    item = Assault Vest / Black Sludge
+    nature = Adamant / Careful.
+    moves = Poison Jab, Recover, Counter, Earthquake
+	paste = King of the Derps (Clodsire) @ Assault Vest  
+Ability: Unaware   
+Adamant Nature  
+- Poison Jab  
+- Recover  
+- Counter  
+- Earthquake
+    comment = The Wooper line is beloved amongst many in the RR Discord, and Clodsire proves itself worthy to be a member of that august lineage. It may seem like a terrible Pokémon when looking at its 430 BST, but in truth this mon is an underrated beast who is able to pull its weight against even the Hardcore E4. Clodsire is, without a doubt, THE hardest counter to Xerneas and Arceus Fairy in the entire game. Thanks to Unaware, Clodsire absolutely does NOT care in the slightest about Geomancy or Calm Mind, and all they can do is feebly attack it with moves that barely do a quarter of its health at most, while Clodsire laughs in their faces and whacks them to death with Poison Jab. Not only that, but if you ended up getting Toxic Spikes set up on you by Lance’s Glimmora, Clodsire absorbs those pesky spikes no problem. Equally importantly, it is a Counter mon that opponents CANNOT set up on, and without setup most mons won’t be able to one-shot Clodsire unless it’s from something like a Mega Rayquaza or Ultra Necrozma. It gets the freest Counter kill ever on Bruno’s Zacian because of this, and with a Payapa Berry it can bait a Pyro Ball instead of an Expanding Force from Agatha’s Victini, getting another Counter kill on it (which is important because Clodsire has a poor matchup against Agatha otherwise). Clodsire’s only truly poor matchup in the Hardcore E4 is against Lorelei, but with a Yache/Passho Berry it should be able to survive long enough to contribute to at least one kill. To those who look past its derpy exterior, Clodsire is a hidden gem of potential who can provide valuable contributions that should not be underestimated.
+
+One last note: Impish is NOT recommended as a nature since it anti-synergizes with Counter.
+	tags = Hardcore, Offensive, Defensive
+}
+Magcargo
+{
+	name = Fire Snail
+	item = Leftovers / Shuca Berrry / Passho Berry
+	ability = Simple
+	nature = Bold/Calm
+	moves = Ancient Power, Body press, Will-O-Wisp / Yawn / Recover, Flamethrower / Iron defence / Acid Armour / No Retreat
+	paste = Fire Snail (Magcargo) @ Leftovers  
+Ability: Simple   
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- No Retreat  
+- Recover  
+- Ancient Power  
+- Body Press
+	evs = 252, 0, 252, 0, 4, 0// HP, Atk, Def, Sp.Atk, Sp.def, Speed
+	comment = Magcargo is a pretty great mon especially if u can run no retreat or shell smash on it , but it also has Ancient power for cheesy strats, yawn and Will-O-Wisp helps u to setup on opponents.U need to be careful around water and ground moves but if u pass that set this thing can sweep even the e4 with a little help from RnGJesus. We items like Shuca or Passho Berry or even leftovers sometimes , it may not insta sweep but it can definitely do it many times and surprise u very well . 
+Bold or Calm is the preferred nature. 
+Don't use this in hardcore mode tho
+}
+Meganium
+{
+    name = Gaia
+    item = Light Clay
+    ability = Triage
+    nature = Sassy
+    moves = Giga Drain/Draining Kiss, Earthquake/Toxic/Synthesis, Light Screen, Reflect
+    paste = Gaia (Meganium) @ Light Clay
+Ability: Triage
+Sassy Nature
+- Giga Drain
+- Synthesis
+- Light Screen
+- Reflect
+  comment = Meganium's Triage ability makes it seem like it could be a decent offensive weapon, but the two main uses of it (Draining Kiss, Giga Drain) either don't do enough damage to be threatening or are easily walled, and the 83 SpA certainly doesn't help. Meganium truly florishes when you use it as a supportive screen setter. Its natural bulk and fairy typing allows easy screen setting and pivots. Earthquake is great for hitting those steel types that always seem to switch in to stop meganium, brandishing a very average but useable 82 attack stat that will slowly chip away at steels. Otherwise, using toxic on pokemon who plan on using a set-up move before using screens ensures that the enemy are put on a timer. Meganium is best used as an annoying support pokemon, instead of a triage sweeper.
+  tags = Normal, Defensive, Support, MGM
+}
+Donphan
+{
+    name = The Don
+    item = Expert Belt
+    ability = Technician
+    nature = Adamant
+    moves = Bonemerang, Rock Tomb/Stone Edge/Head Smash, Knock Off/Rapid Spin, Ice Shard
+    paste = The Don (Donphan) @ Expert Belt
+Ability: Technician
+Adamant Nature
+- Bonemerang
+- Head Smash
+- Knock Off
+- Ice Shard
+  comment = Offensive Donphan is one of the most devastating non legendary pokemon that you have access too. With Technician boosted Bonemerang, anything neutral to ground takes tons of damage, and one shotting almost anything weak to ground. With a wide array of rock moves, you can pick your poison. Rock Tomb has 100 accuracy and is technician boosted while lowering speed, Stone Edge is higher damage for less accuracy, and Head Smash can destroy anything that switches in, sacrificing health. Knock Off is never a bad move, and while it's not technician boosted, knocking off enemy items will never be bad. Finally, Technician Ice Shard can do a surprising amount of damage, while also giving Donphan a priority move for all the dragons/flying types that try to switch into Donphan's Bonemerang. Donphan's coverage allows it to ensure ground immune pokemon are unable to switch into his moves. This pokemon has tools that make it so almost no pokemon can switch into it without taking massive damage.
   tags = Normal, Offensive, MGM
 }
