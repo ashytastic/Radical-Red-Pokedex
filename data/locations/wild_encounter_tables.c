@@ -3166,7 +3166,7 @@ static const struct WildPokemonInfo gBondBridge_LandMonsInfoDay = { 4, gBondBrid
 
 static const struct WildPokemon gBondBridge_SurfMons[] = 
 {
-	{60, 65, SPECIES_PELIPPER},
+	{60, 65, SPECIES_PALAFIN},
 	{83, 85, SPECIES_SLOWKING},
 	{83, 85, SPECIES_MANTINE_S},
 	{83, 85, SPECIES_MILOTIC_S},
