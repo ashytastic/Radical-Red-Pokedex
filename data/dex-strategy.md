@@ -689,3 +689,75 @@ Adamant Nature
   comment = Offensive Donphan is one of the most devastating non legendary pokemon that you have access too. With Technician boosted Bonemerang, anything neutral to ground takes tons of damage, and one shotting almost anything weak to ground. With a wide array of rock moves, you can pick your poison. Rock Tomb has 100 accuracy and is technician boosted while lowering speed, Stone Edge is higher damage for less accuracy, and Head Smash can destroy anything that switches in, sacrificing health. Knock Off is never a bad move, and while it's not technician boosted, knocking off enemy items will never be bad. Finally, Technician Ice Shard can do a surprising amount of damage, while also giving Donphan a priority move for all the dragons/flying types that try to switch into Donphan's Bonemerang. Donphan's coverage allows it to ensure ground immune pokemon are unable to switch into his moves. This pokemon has tools that make it so almost no pokemon can switch into it without taking massive damage.
   tags = Normal, Offensive, MGM
 }
+Golurk
+{
+    name = Goliath
+    item = Expert Belt
+    ability = Iron Fist
+    nature = Adamant
+    moves = Rage Fist, Headlong Rush, Close Combat/Ice Punch, Rock Polish
+    paste = Goliath (Golurk) @ Expert Belt
+Ability: Iron Fist
+Adamant Nature
+- Rage Fist
+- Headlong Rush
+- Ice Punch
+- Rock Polish
+  comment = Golurk is one of the pokemon blessed by RR buffs. With iron fist boosted Rage Fist, Headlong Rush, and Ice Punch, all these moves are going to pack a heavy hit for any pokemon on the opposite side. With solid base defenses, Golurk has no problems taking hits, which powers up his Iron Fist boosted Rage Fist to insane levels of damage. Rock Polish allows him to outspeed most pokemon that aren't ubers. This pokemon doesn't care what pokemon is in front of him, with Ice Punch coverage for dragons and flying types, Close Combat coverage for normal types, Headlong Rush for Steels, and Rage fist for anything that doesn't resist. Without opposing priority, the fight is over once Golurk sets up a Rock Polish, and is one of the best sweepers in the game currently.
+  tags = Normal, Offensive, MGM, Sweeper
+}
+Greedent
+{
+	name = Death Squirrel 
+	item  =  Liechi Berry/Sitrus Berry/Chople Berry
+	ability = Cheek Pouch
+	nature = Impish/Adamant
+	moves = Body Press, Recycle, Stuff Cheeks, Tail Slap/Earthquake/Counter
+	paste = Death Squirrel (Greedent) @ Liechi Berry  
+Ability: Cheek Pouch   
+Impish Nature  
+- Body Press  
+- Recycle  
+- Stuff Cheeks  
+- Earthquake
+	comment = Greedent in HC is an underestimated threat as it has access to Stuff Cheeks and Recycle which means it can get infinite value from eating its berry, while healing any damage, while also increasing its Defense. This build is great against Bruno as his entire line up is mostly made up of physical attackers, which means you can straight up counter one E4 with one Pokemon. Against the other Elite 4 members Greedent comes alive against Primal Groundon/ Mega Swampert(Gary)/ Arceus(Normal)/ Dragonite(Lance)/Melmetal/ Necrozma(Lance). You can pick between Liechi or Sitrus depending on if you wanna hit Ghost Types with EQ or have a stab move in Tail Slap. But go Chople against Bruno as it literally stops his Infernape lead from killing you with one CC, and allows you to setup a free Stuff Cheeks, and sweep his team (except for Iron Valiant which can be a threat cause +6 def with BP has a 44.9% to 2 KO) Pokémon that this build won't work against is mostly Lorelei and Agatha as they have ways to deal with it, as well as all the Sp.Attackers that have setup as they can easily setup on you and sweep you.
+ tags = HC, Defense, Gimmick
+}
+Furret
+{
+    name = Speedy Long Boi
+    item = Choice Band
+    ability = Adaptability
+    evs = 0, 252, 4, 0, 0, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = Double Edge, Knock Off, U-Turn, Extreme Speed
+    paste = Speedy Fella (Furret) @ Choice Band
+Ability: Adaptability
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Double Edge
+- Knock Off
+- U-Turn
+- Extreme Speed
+comment = Not much else can be said besides spam Extreme Speed for a high damaging priority thanks to Adaptability, Furret is strong. Double Edge let you hit something harder when you are faster than them, Knock Off is merely a utility to get rid of opponent's held item, U-Turn is obviously to pivot out on a resist, lastly the move that you will click most of the time Extreme Speed. It's a pretty simple set yet very powerful.
+tags = Normal, Hardcore, Offensive
+}
+Runerigus
+{
+    name = Defensive Rune
+    item = Leftovers
+    ability = Shadow Shield
+    evs = 252, 4, 252, 0, 0, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Impish
+    moves = Earthquake, Pain Split, Shadow Sneak / Shadow Claw / Night Shade, Will o Wisp
+    paste = Defensive Rune (Runerigus) @ Leftovers
+Ability: Shadow Shield
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Earthquake
+- Pain Split
+- Shadow Claw
+- Will o Wisp
+  comment = Shadow Shield really did something for Runerigus, now it can take way more hit than before. This set take advantage of that first turn bulk to burn any physical attackers with Will o Wisp, weakening them further more so that you can tank more damage. Earthquake is the reliable stab for attacking, Pain Split is here for recovery if you ever get hit to low hp by splitting your opponent's hp. For the third slot it depends on you, Shadow Claw for consistency and general circumstances, Shadow Sneak to finish off any low hp target or sashed target that already broke their sash, lastly Night Shade if you need a consistent damage againts bulky opponents. Will o Wisp is pretty self explanatory, just burn to halves incoming physical moves.
+  tags = Normal, Hardcore, Defensive
+}
