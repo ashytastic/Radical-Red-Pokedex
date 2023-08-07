@@ -579,3 +579,20 @@ Adamant Nature
   comment = Armaldo is surprisingly one of the best anti-hazard leads out there with Assault Vest. Rock Blast/Pin Missile allows you to break the sash of most of the leads, match up well with almost all the leads in RR, as well as allowing you to hit even resistant switch ins for solid damage.  Rapid Spin ensures that the only way the opposing lead is going to get rocks up is by killing Armaldo, which in turn allows you to get a revenge killer of your own in to ensure no hazards go up. If you win the 1v1, the rapid spin boost allows you to get one last move off. Knock off is great for getting rid of opposing items, potentially allowing a set-up sweeper to take advantage. Aqua Jet is great at getting a bit of poke damage before death if you're still outsped. Bulldoze allows you to lower the speed of the enemy pokemon, allowing your next pokemon to take advantage and finish the opposing pokemon off. Finally, earthquake is great for all around coverage against steel types.
   tags = Normal, Offensive, MGM
 }
+Roserade
+{
+    name = Rose
+    item = Life Orb
+    ability = Technician
+    nature = Modest
+    moves = Mega Drain, Sludge Bomb, Ominous Wind, Substitute/Dazzling Gleam/Toxic Spikes/Spikes
+    paste = Rose (Roserade) @ Life Orb
+Ability: Technician
+Modest Nature
+- Mega Drain
+- Sludge Bomb
+- Ominous Wind
+- Substitute
+  comment = Roserade is one of the most versatile pokemon in RR. Technician allows normally weak moves like Mega Drain and Ominous Wind to be boosted up to high levels. Mega Drain and Sludge Bomb are high stab moves, but can easily be blocked by steel types. Ominous Wind and Substitute take care of that and removes the prediction portion of Roserade. Not only that, Substitute allows you to fish for Ominous Winds omniboost, which can easily setup a sweep. Ominous Wind allows you to hit those pesky ghost types that try to switch into your poison type moves. If you're against a dragon heavy trainer, Dazzling is a great move for general coverage, or you can setup either Toxic Spikes or regular Spikes for chip if you're worried Roserade might get walled in a fight. Hazards also allow you to remove prediction. Realistically, any decent move is good in the fourth slot, it's up to your creativity!
+  tags = Normal, Offensive, MGM
+}
