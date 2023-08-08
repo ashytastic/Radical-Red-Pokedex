@@ -761,3 +761,58 @@ Impish Nature
   comment = Shadow Shield really did something for Runerigus, now it can take way more hit than before. This set take advantage of that first turn bulk to burn any physical attackers with Will o Wisp, weakening them further more so that you can tank more damage. Earthquake is the reliable stab for attacking, Pain Split is here for recovery if you ever get hit to low hp by splitting your opponent's hp. For the third slot it depends on you, Shadow Claw for consistency and general circumstances, Shadow Sneak to finish off any low hp target or sashed target that already broke their sash, lastly Night Shade if you need a consistent damage againts bulky opponents. Will o Wisp is pretty self explanatory, just burn to halves incoming physical moves.
   tags = Normal, Hardcore, Defensive
 }
+Torterra
+{
+    name = Shell Smash Sweeper
+    item = White Herb
+    ability = Rock Head
+    evs = 0, 252, 4, 0, 0, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Jolly
+    moves = Earthquake / Headlong Rush, Wood Hammer, Head Smash, Shell Smash
+    paste = Shell Smash Sweeper (Torterra) @ White Herb
+Ability: Rock Head
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Wood Hammer
+- Head Smash
+- Shell Smash
+  comment = Shell Smash gives Torterra the potential to be a fast sweeper. White herb is used to restore Torterra's lowered stats after Shell Smash so that it can take and survive hits. His sweeping power is boosted further by his ability Rock Head which means Torterra can freely use high base power recoil moves like Wood Hammer and Head Smash without suffering any recoil. For the ground stab it's your choice, higher base power Headlong Rush for the extra damage but risking the stats drop or the good old reliable Earthquake. EVs really helps Torterra to outspeed more threats so it's less powerful to use in Minimal Grinding Mode. 
+  tags = Normal, Offensive, Sweeper
+}
+Chandelure
+{
+    name = Candle
+    item = Leftovers
+    ability = Shadow Tag
+    nature = Modest
+    moves = Flamethrower, Shadow Ball, Substitute/Will-o-Wisp, Calm Mind
+    paste = Candle (Chandelure) @ Leftovers
+Ability: Shadow Tag
+Modest Nature
+- Shadow Ball
+- Flamethrower
+- Substitute
+- Calm Mind
+  comment = Chandelure is a very flexible pokemon in RR, able to run both defensive and Offensive sets with a wide move pool. Between Shadow Ball and Flamethrower, you should have plenty of coverage to hit every pokemon that switches in hard with a 145 Special Attacking stat. Shadow Tag is used best when you switch into a pokemon that is either choiced, or is unable to deal much damage with you. Will-o allow you to set up max Calm Minds on physical attackers who lack coverage for Chandelure. Substitute ensures that if you're setting up on a special attacker, once you set up to max and kill him, you'll be firmly behind a sub to guarantee another kill on any opposing switch ins. This Pokemon is not a normal sweeper in RR terms. Shadow Tag Chandelure is at its best when it can set up and pick off weakened enemy teams who are down a couple pokemon, and lack the switch ins to handle the barrage of attacks.
+  tags = Normal, Sweeper, Offensive, MGM
+}
+Staraptor
+{
+    name = Birb
+    item = Choice Scarf / Heavy Duty Boots
+    ability = Reckless
+    evs = 0, 252, 0, 0, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Jolly
+    moves = Brave Bird, Double Edge / Defog, Close Combat, U-Turn
+    paste = Birb (Staraptor) @ Choice Scarf
+Ability: Reckless
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- U-turn
+- Double-Edge
+comment = Staraptors good speed and high attack stat combined with Reckless makes it a really threatening Pokémon. Its role is usually just dealing massive damage with recoil moves before it KOs itself, but can also be used as a Defog pivot with U-Turn chipping away at the opponent while safely switching out.  With Choice Scarf equipped, Staraptor outspeeds any Pokémon with less than 175 base speed and will either KO them or at the very least cripple them harshly. 
+tags = Normal, Offensive
+}
