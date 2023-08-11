@@ -816,3 +816,363 @@ Jolly Nature
 comment = Staraptors good speed and high attack stat combined with Reckless makes it a really threatening Pokémon. Its role is usually just dealing massive damage with recoil moves before it KOs itself, but can also be used as a Defog pivot with U-Turn chipping away at the opponent while safely switching out.  With Choice Scarf equipped, Staraptor outspeeds any Pokémon with less than 175 base speed and will either KO them or at the very least cripple them harshly. 
 tags = Normal, Offensive
 }
+Charizard Mega Y
+{
+    name = Dante 
+    item = Charizardite Y
+    ability = Drought
+    evs = 252, 0, 0, 4, 0, 252 / / HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Timid
+    moves = Heat Wave/Flamethrower/Fire Blast, Roost, Will-o'-Wisp, Tailwind/Solar Beam/Dragon Pulse
+	paste = Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought    
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Roost  
+- Will-O-Wisp  
+- Tailwind
+    comment = Mega Charizard Y is known for its power, but in Radical Red it often runs into a problem; being outsped and either KO'd, or brought down too low to be of use again. This is where this set comes in. It should allow you to live hits from things like Mamoswine, Gyarados (thanks to Drought) and other hard hitters. After burning them, you can either wear them down with your natural special attack, or switch out to another team member, preferrably one that takes advantage from the sun. This means Charizard will be able to get in the field and get its weather up a lot more safely, bypassing the hurdle that is not being able to hold a Heat Rock. You can also swap the HP EVs for defense for example, but the extra HP allows it to be a better mixed wall, considering its base special defense and moveset. 
+    tags = Normal, Defensive, Utility
+}
+Venusaur
+{
+    name = Sun Sweeper
+    item = Life Orb / Focus Sash
+    ability = Chlorophyll
+    evs = 0, 0, 0, 252, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Timid
+    moves = Solar Beam / Giga Drain, Sludge Bomb, Earth Power / Weather Ball , Growth
+    paste = Sun Sweeper (Venusaur) @ Life Orb
+Ability: Chlorophyll
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Solar Beam
+- Sludge Bomb
+- Earth Power
+- Growth
+  comment = Venusaur is one of the best grass types to use to abuse sun, it has good setup move in Growth, good offensive stats, good speed, and also good coverage moves. Use Solar Beam as your main grass stab if you want damage and use Giga Drain if you prefer recovery. Sludge Bomb is a good reliable poison stab to use but feel free to swap for other coverage if needed. For the third slot you can choose between Earth Power or Weather Ball depends on the matchup, both are great. And your main setup move is Growth as it raises both of your offensive stats by 2 stage if used under sun. Lastly you could swap out your held item anytime too but generally Life Orb is very good, another alternative is Focus Sash to guaranteed a setup or living a hit.
+  tags = Normal, Offensive, Sweeper
+}
+Bouffalant
+{
+    name = Jericho
+    item = Choice Band / Life Orb
+    ability = Bull Rush
+    nature = Jolly
+    moves = Raging Bull, Headlong Rush, Poison Jab, Wild Charge / Superpower
+	paste = Jericho (Bouffalant) @ Life Orb  
+Ability: Bull Rush
+Tera Type: Normal  
+Jolly Nature  
+- Raging Bull  
+- Headlong Rush  
+- Poison Jab  
+- Superpower
+    comment = With a Life Orb or Choice Band, Bouffalant can instantly burst through walls due to its capacity to outspeed Pokémon with 128 base speed or less thanks to its Bull Rush ability and afford to take a hit or two with it's bulk.
+
+Bouffalant previously had to contend with always suffering recoil with Head Charge as its strongest move however, now that it has Raging Bull, even though it is a weaker attack, Bull Rush offers it strength equal to or almost equal to that of Head Charge.
+
+Spamming Raging Bull has drawbacks including the inability to attack Steel or Ghost types, however these drawbacks can be overcome thanks to access to the amazing Headlong Rush and for the world's Corviknights you also have Wild Charge.
+    tags = Hardcore, Offense
+}
+Electivire
+{
+    name = What A Shock
+    item = Punching Glove
+    ability = Iron Fist
+    nature = Jolly
+    moves = Plasma Fists, Close Combat, Ice Punch, Drain Punch / Volt Switch
+	paste = What A Shock (Electivire) @ Punching Glove  
+Ability: Iron Fist   
+Jolly Nature  
+- Plasma Fists  
+- Close Combat  
+- Ice Punch  
+- Drain Punch
+    comment = Many were shocked to learn that Electivire had lost it's part Fighting type which had made it such a dazzling contender for your team but Electivire is still a pretty good pokemon, even if losing it would appear to be such a nerf. Losing the fighting type also means it's now weak to one type again and it's attack was reset to 123 while also gaining Drain Punch which is boosted by Iron Fist.
+
+Now Electivire may act as an offensive pivot thanks to Volt Switch by switching out of bulkier opponents and generating momentum for your team. Electivire should be used mostly as a wallbreaker and revenge killer as it can quickly take care of slower pokemon without breaking a sweat.
+
+It packs a punch, no pun intended. Having Iron Fist and the Elemental Punches combined on top of the new Punching Glove offers you essentially the same damage output as you would have had when Electivire was still part fighting type.
+    tags = Hardcore, Offense
+}
+Spidops
+{
+    name = Hazard Setter
+    item = Focus Sash
+    ability = Stakeout
+    evs = 252, 0, 252, 0, 4, 0
+    nature = Impish
+    moves = Sticky Web, Silk Trap, Spikes, Memento / Circle Throw / Toxic Spikes
+	paste = Hazard Setter (Spidops) @ Focus Sash
+Ability: Stakeout
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Sticky Web
+- Silk Trap
+- Spikes
+- Memento
+    comment = While spidops has a pretty low speed and barely decent "bulk", it is a quite unique pokémon, as it is the only one that can set up Sticky Web and Spikes.
+
+The ways to make "use" of this pokémon is:
+Using it as a lead, and switching between silk trapping and trying to set up hazards until you can't, then, using memento to lower the opponent pokémon's stats so you can switch in another pokémon, preferably a setup sweeper, that is if your opponent (somehow) can't do much damage to spidops.
+
+In case spidops receives enough damage to be OHKOed (it will happen very frequently), and your focus sash is broken, you should try to get as much Silk Traps as you can, so you can lower their speed enough for you to outspeed.
+Circle Throw is  another option instead of memento for switching out bad match-ups and doing damage.
+    tags = Support, Normal
+}
+Typhlosion
+{
+    name = Tylenol
+    item = Choice Specs
+    ability = Flaming Soul
+    nature = Modest
+    moves = Flamethrower/Fire Blast/Overheat, Scorching Sands, Focus Blast, Hidden Power Grass
+    paste = Tylenol (Typhlosion) @ Choice Specs
+Ability: Flaming Soul
+Modest Nature
+- Fire Blast
+- Scorching Sands
+- Focus Blast
+- Hidden Power Grass
+  comment = Realistically, if you're using Typhlosion you're pressing one move, and that's whatever fire stab that you desire out of Flamethrower/Fire Blast/Overheat. (It also learns Eruption at level 100 if you're in postgame] While Typhlosion can run Heavy Duty Boots to ensure it will always have the priority, I prefer to pair Typhlosion with defoggers/rapid spinners to ensure that the priority fire stab can deal as much damage as possible, while also keeping your priority. Running Heavy Duty Boots heavily lowers your damage. Otherwise, both Scorching Sands and Focus Blast are just general coverage you would click if something like bulky fire types/flash fire pokemon switch in. Hidden Power grass is for those specially bulky ground and water types that might switch in. But even then, I'd still recommend clicking your fire stab almost 99% of the time. Paired with hazard control, Typhlosion may not sweep, but it can poke large holes in the enemies team to allow your other pokemon to take advantage.
+  tags = Normal, Offensive, MGM
+}
+Salamence
+{
+    name = Bulkmence
+    item = Leftovers
+    ability = Intimidate
+    evs = 252, 0, 160, 0, 0, 96 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Impish
+    moves = Dual Wingbeat, Roost, Flamethrower, Toxic
+    paste = Bulkmence (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 160 Def / 96 Spe  
+Impish Nature  
+- Dual Wingbeat  
+- Roost  
+- Flamethrower  
+- Toxic
+    comment = Salamence reserves very formidable bulk and utility with its ability Intimidate that allows it to act as a physical wall without losing offensive presence. Its access to Roost allows it to toxic stall bulky opposition while removing its flying weaknesses to make it less apt to ice attacks. 
+Salamence uses Flamethrower to reliably hit steel types with its impressive special attack stat and Dual Wingbeat deal active damage when Roost isn’t necessary.
+The EV distribution allows Salamence to outspeed certain Pokémon in order to maintain longevity with Roost.
+Other options may allow Salamence to become a bulky sweeper by replacing Flamethrower with Earthquake and Toxic with Dragon Dance to give it setup potential against Pokémon who may otherwise out-stall it. 
+    tags = Normal, Defense
+}
+Lilligant H
+{
+    name = Gambler
+    item = Wide Lens
+    ability = Hustle
+    nature = Adamant
+    moves = Leaf Blade, Close Combat, Ice Spinner/Knock Off, Victory Dance
+    paste = Gambler (Lilligant H) @ Wide Lens
+Ability: Hustle
+Adamant Nature
+- Leaf Blade
+- Close Combat
+- Ice Spinner
+- Victory Dance
+  comment = Hustle Lilligant is one of the biggest boom or busts in RR, but also has the greatest rewards. With a base 105 Atk and Speed stat, just one victory dance can have you outspeeding and oneshotting the enemy; not even including hustles +50% damage output. The main catch, even with Wide Lens, is that you're always one miss away from the sweep being halted. Leaf Blade and Close Combat are both STAB moves that cover a lot of variety of Pokémon, Ice Spinner is great for those flying types and dragon types that decide to try to wall you, and Victory Dance is physical quiver dance. With perseverance and prays to the gods of RNG, this Pokemon is arguably one of the biggest menaces in the mid-early late game area.
+  tags = Normal, Offensive, Sweeper, MGM
+}
+Klinklang
+{
+    name = King Klang
+    item = Mental Herb
+    ability = Steely Spirit
+    evs = 100, 252, 0, 0, 0, 156 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = Gear Grind, Shift Gear, Volt Tackle, Superpower
+    paste = King Klang (Klinklang) @ Mental Herb  
+Ability: Steely Spirit 
+EVs: 100 HP / 252 Atk / 156 Spe  
+Adamant Nature  
+- Gear Grind  
+- Shift Gear  
+- Volt Tackle  
+- Superpower
+    comment = Klinklang makes use of Gear Grind for a potent multi-hit 150BP STAB attack after Steely Spirit to break sturdy, multiscale, and substitute without issue. Its two other moves act as high-powered coverage to deal with opposing steel or water types. Mental Herb gives Klinklang the utility to lead battles with Shift Gear and outspeed its competition in the face of Taunt.
+Klinklang’s EV distribution is made specially to allow it to outspeed the meta after one Shift Gear while still leaving enough bulk to survive most priority attacks and some super-effective physical attacks.
+Other options include using Sitrus Berry or damage-reducing berries to boost longevity and ensure Klingklang is able to use Shift Gear. 
+    tags = Normal, Offense, Sweeper
+}
+Maushold
+{
+    name = Maushold
+    item = Wide Lens
+    ability = Technician
+    evs = 0, 252, 0, 0, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Jolly
+    moves = Population Bomb, Beat Up, Tidy Up, Low Kick / Bullet Seed
+    paste = Maushold @ Wide Lens  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Population Bomb  
+- Beat Up  
+- Tidy Up  
+- Low Kick
+    comment =  Maushold becomes a force to be reckoned with as it commands an incredible 300BP STAB attack and an impressive speed tier, even unboosted.
+Wide Lens is essential for the move Population Bomb as each hit naturally has a 90% chance of connecting without the item, making the move have a 35% chance of hitting for max damage compared to a 90.4% chance with Wide Lens.
+Maushold utilizes its other moves to hit ghost types or types that quad-resist normal type attacks because it otherwise still hits hardest with Population Bomb. Beat Up can be used to deal significant damage to ghost type Pokémon and Low Kick handles the rare Rock / Steel type Pokémon it may face. Bullet Seed may be used to address certain Pokémon that are quad-weak to grass type attacks. Tidy Up allows Maushold to outspeed a significant portion of the meta when it can afford to set up. 
+Generally, Maushold only ever needs to click Population Bomb. 
+    tags = Normal, Offense
+}
+Haxorus
+{
+    name = Salac Berry
+    item = Salac Berry
+    ability = Mold Breaker
+    nature = Adamant
+    moves = Glaive Rush, Earthquake, Poison Jab, Endure
+	paste = Salac Berry (Haxorus) @ Salac Berry  
+Ability: Mold Breaker   
+Adamant Nature  
+- Glaive Rush  
+- Earthquake  
+- Poison Jab  
+- Endure
+    comment = With its excellent Attack stat and its recently discovered potent STAB move, Glaive Rush, Haxorus is a reliable physical sweeper and wallbreaker. Additionally, it can go head-to-head with Steel and Fairy types thanks to a solid physical move pool that includes coverage like Poison Jab and Earthquake.
+
+Hardcore mode prevents Haxorus from doing its due diligence due to its inability to use Swords Dance and Dragon Dance, however, by using a Salac Berry and Endure, you're able to over come this by enabling Haxorus to become an insane late game sweeper.
+    tags = Hardcore, Offense, Sweeper
+}
+Golurk
+{
+    name = Golurk
+    item = Punching Glove
+    ability = Iron Fist
+    evs = 0, 252, 0, 0, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = Headlong Rush, Rage Fist, Drain Punch, Rock Polish
+    paste = Golurk @ Punching Glove  
+Ability: Iron Fist 
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Headlong Rush  
+- Rage Fist  
+- Drain Punch  
+- Rock Polish
+    comment = Golurk flaunts naturally impressive bulk thanks to its RR buffs which allows it to focus on its sweeping capabilities. Golurk’s excellent defensive typing and high HP stat allows it to make strong use of the move Drain Punch alongside a 43% boost from Iron Fist and Punching Glove to act as passive recovery, both boosting longevity and the power of its move Rage Fist over time.
+Golurk’s strongest utility is its ability to boost its speed in front of many threatening Pokémon to produce sweeping potential that is unwavered by most priority attacks.
+Headlong Rush, acting as a fist move, provides Golurk with a fresh 171BP STAB attack before it can prepare Rage Fist after sustaining two hits. Drain Punch serves both as strong fighting coverage and its main method of recovery. 
+Other options may allow Golurk to utilize Assault Vest alongside max HP investment to improve its longevity with Drain Punch and Shadow Sneak or Ice Punch for coverage. 
+    tags = Normal, Offense, Sweeper
+}
+Dudunsparce
+{
+    name = Status Spreader
+    item = Leftovers
+    ability = Serene Grace
+    nature = Impish / Careful
+    moves = Body Slam, Roost, Poison Jab, Body Press / Bite / Rock Smash
+	paste = Status Spreader (Dudunsparce) @ Leftovers  
+Ability: Serene Grace   
+Impish Nature  
+- Body Slam  
+- Roost  
+- Poison Jab  
+- Body Press
+    comment = Thanks to its huge HP stat and exceptional longevity with Roost, Dudunsparce is an intimidating status spreader that is hard to defeat. Serene Grace permits Bite to have a 60% chance to flinch, Poison Jab to have a 60% chance to poison, and Body Slam to have a 60% chance to paralyze. If you add leftovers to this combo, opponents who aren't fighting types will find it difficult to take it down.
+
+Due to the necessity for Roost and Body Slam yet inability to hit either a Ghost Type or a Steel Type, Dundunsparce may experience 4 move syndrome. You can insert Body Press or Rock Smash to hit Steel Types according on what your team most requires. Due to the 100% chance of lowering defense by 1 with Rock Smash and the 60% risk of flinching with Bite when dealing with Ghost Types, respectively.
+    tags = Hardcore, Defense, Support
+}
+Pikachu-Flying
+{
+    name = Pikachu
+    item = Light Ball
+    ability = Lightning Rod
+    evs = 0, 252, 0, 0, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = Fake Out, Extreme Speed, Zippy Zap, Fly / Volt Switch
+    paste = Pikachu-Flying @ Light Ball  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Extreme Speed  
+- Zippy Zap  
+- Fly
+    comment = With its immunity to ground and electric attacks using its incredible defensive typing, I find Pikachu-Flying is the best variant of Pikachu you can find.
+Be mindful of the fact that Raichu outclasses Pikachu with Life Orb using the same niche, so there is not much reason to choose Pikachu other than for type immunity or gimmick reasons.
+This set makes use of three of Pikachu’s priority attacks to stack damage on its opponent, while hitting Zippy Zap for notable damage. The move Fly allows Pikachu to threaten grass type Pokémon or to force the AI into a swap as its strongest attack.
+Other options including Volt Switch or Thunder Wave may allow Pikachu to pivot or act as utility. 
+    tags = Normal, Gimmick
+}
+Starmie
+{
+    name = Starmie
+    item = Power Herb / Life Orb
+    ability = Illuminate
+    evs = 0, 0, 0, 252, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Timid
+    moves = Hydro Pump, Ice Beam / Blizzard, Meteor Beam / Thunder / Thunderbolt, Psyshock
+    paste = Starmie @ Power Herb  
+Ability: Illuminate   
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Meteor Beam  
+- Psyshock
+    comment = Starmie boasts excellent coverage and speed to provide a well-rounded special attacker augmented by a 96% accurate Hydro Pump as its main offensive force.
+Psyshock allows Starmie to provide pressure offensively on both sides to avoid being pressed by special walls. Meteor Beam paired with Power Herb both allows Starmie to hit with powerful rock coverage and also increases its offensive presence by +1 SpAtk. Ice Beam acts as reliable ice coverage compared to Blizzard which may miss at 84% accuracy.
+Other options may include replacing Power Herb with Life Orb or Choice Specs and Meteor Beam with Thunder or Thunderbolt to more reliably increase Starmie’s offensive presence. 
+
+    tags = Normal, Offense
+}
+Mandibuzz
+{
+    name = Mandibuzz
+    item = Leftovers / Heavy-Duty Boots
+    ability = Overcoat
+    evs = 252, 0, 240, 0, 0, 16 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Impish
+    moves = Foul Play, Roost, Toxic / Whirlwind, Knock Off / Defog
+    paste = Mandibuzz (F) @ Leftovers  
+Ability: Overcoat  
+EVs: 252 HP / 240 Def / 16 Spe  
+Impish Nature  
+- Foul Play  
+- Roost  
+- Toxic  
+- Knock Off
+    comment = Mandibuzz exhibits a deceptively remarkable defensive stat spread and typing, making it capable of sustaining many strong attacks on either side.
+Mandibuzz usually favors the move Foul Play for presence to make up for its low attack stats. This also works to punish opposing hard-hitters, especially those that increase their attack stat.
+Mandibuzz utilizes Toxic to stall out bulkier threats alongside Roost and Knock Off.
+Overcoat is Mandibuzz’s best ability as it blocks sandstorm chip damage and powder moves, allowing it to better handle rock type and grass type Pokémon. 
+Other options may allow Mandibuzz to have more utility for your team including Whirlwind to pivot your opponent into entry hazards, Taunt, Defog, or Brave Bird for a bit more offensive presence against fighting type Pokémon. 
+
+    tags = Normal, Defense, Utility
+}
+Armaldo
+{
+    name = Armaldo
+    item = Silver Powder / Choice Band / Assault Vest
+    ability = Skill Link
+    evs = 252, 252, 0, 0, 4, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = First Impression, Pin Missile, Rock Blast, Earthquake / Knock Off
+    paste = Armaldo @ Silver Powder  
+Ability: Skill Link  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- First Impression  
+- Pin Missile  
+- Rock Blast  
+- Earthquake
+    comment = Armaldo utilizes its impressive bulk and attack stat to produce significant damage to any enemy that doesn’t resist its attacks.
+Its EV distribution yields speed to its opponents in exchange for additional bulk and maximum attack as Armaldo will not outspeed many Pokémon anyway.
+Armaldo’s Silver Powder allows Armaldo to have a 108BP priority move in First Impression without locking it in like Choice Band would or sacrificing longevity like Life Orb.
+Armaldo’s main offense lies in its new priority move First Impression, which serves to ignore its otherwise terrible speed stat and get the upper hand against faster Pokémon, often hitting for a revenge KO.
+Its other moves Pin Missile and Rock Blast act alongside Skill Link to produce substantial damage against bulkier Pokémon or to break Sturdy and Multiscale while Earthquake helps against steel type Pokémon.
+Other options including Choice Band may allow Armaldo to break more Pokémon it would otherwise fail to OHKO while Assault Vest would allow Armaldo to have substantial bulk on both sides in exchange for some physical presence.
+
+    tags = Normal, Offense
+}
