@@ -1176,3 +1176,117 @@ Other options including Choice Band may allow Armaldo to break more Pokémon it 
 
     tags = Normal, Offense
 }
+Noctowl
+{
+    name = Noctowl
+    item = Leftovers
+    ability = Tinted Lens
+    evs = 252, 0, 252, 0, 4, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Bold
+    moves = Oblivion Wing, Esper Wing, Calm Mind, Feather Dance / Roost
+    paste = Noctowl @ Leftovers  
+Ability: Tinted Lens    
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Esper Wing  
+- Oblivion Wing  
+- Calm Mind  
+- Feather Dance
+    comment = Noctowl exercises its access to Tinted Lens by relying on Oblivion Wing to fulfill both its HP recovery and its primary damage output in the face of Pokémon who would resist it.
+Noctowl makes use of the move Esper Wing to boost its mediocre speed stat into a usable range alongside Calm Mind, which serves to wall special attackers. Noctowl makes use of Feather Dance to significantly reduce the attack power of certain threats which may otherwise defeat it to provide enough longevity to score a KO. 
+Its EV distribution is set to allow Noctowl to tank at least one super-effective hard-hitting physical attack, giving it the upper hand against certain threats.
+Other options may allow Noctowl to utilize Roost to passively set up against special attacking Pokémon or Nasty Plot to aggressively set up for sweeping potential. 
+
+    tags = Normal, Gimmick
+}
+Glaceon
+{
+    name = Snow Offense
+    item = Life Orb / Choice Specs
+    ability = Slush Rush
+    evs = 0, 0, 0, 252, 4, 252 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Modest
+    moves = Blizzard, Freeze-Dry, Earth Power, Shadow Ball
+    paste = Glaceon @ Life Orb  
+Ability: Slush Rush    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Freeze-Dry  
+- Earth Power  
+- Shadow Ball
+    comment = Glaceon acts as the main offensive force on a snow team, boasting one of the highest Sp.Atk stats of any ice type Pokémon and a pivotal ability in Slush Rush.
+Glaceon utilizes a speed tier that sets it faster than the meta under snow, so benefits from a modest nature to amplify the damage it can deal.
+Under snow, Blizzard is Glaceon’s primary attack as it provides excellent damage without concern for accuracy. Freeze-Dry provides Glaceon a reliable answer to water types and serves as ice STAB when not under snow. Earth Power and Shadow Ball contribute to tie up Glaceon’s remaining coverage issues by handling steel type and fire type Pokémon, as well as specific threats such as Bronzong.
+Other options may allow Glaceon to act as a secondary cleric using Wish-pass or to set up with Calm Mind.
+
+    tags = Normal, Offense
+}
+Avalugg
+{
+    name = Curselugg
+    item = Leftovers
+    ability = Filter
+    evs = 252, 0, 4, 0, 252, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Careful
+    moves = Ice Shard, Curse, Earthquake / Body Press, Recover
+    paste = Avalugg @ Leftovers  
+Ability: Filter    
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Ice Shard  
+- Curse  
+- Earthquake  
+- Recover
+    comment = Avalugg makes use of its new ability Filter to become one of the most potent walls in the game as the ability allows it to survive super-effective attacks far more gracefully than before.
+Avalugg utilizes both its naturally immense Def stat and its invested SpDef to set up Curse to then recover damage when it gets low, building both its attack and defense further.
+Avalugg’s EV distribution allows it to take significant special damage from enemies who may not fall to the first Ice Shard.  
+Avalugg’s low speed is easily mitigated by its new access to the move Ice Shard which allows it to strike with priority, often scoring a KO against a much faster foe. Earthquake is used as coverage against fire type and steel type Pokémon who would otherwise resist its ice attack.
+Other options may allow Avalugg to use Body Press instead of Earthquake or opt for a fully defensive spread to maximize Body Press damage and physical walling potential. 
+
+    tags = Normal, Defense
+}
+Scizor
+{
+    name = Red Ranger
+    item = Life Orb
+    ability = Technician 
+    evs = 252, 252, 0, 0, 4, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Adamant
+    moves = Bullet Punch, Swords Dance, Close Combat, Knock Off/Roost
+	paste = Scizor @ Life Orb
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Bullet Punch
+- Swords Dance
+- Close Combat
+- Roost
+    comment = Scizor can work as a sweeper that can end fights after one swords dance as long as its checks are dead. Close Combat smacks opposing steel types and other steel resists very hard. Knock Off can hit ghost types that don't get hit too hard by bullet punch or Close Combat such as aegislash gholdengo and jellicent. Roost is an amazing option due to Scizor's decent bulk. As for Swords Dance and Bullet Punch, it's usage is pretty obvious as its your main attack and you Swords Dance each chance you get. tags = Normal-Mode, Offensive 
+}
+Ampharos Mega
+{
+    name = Bulky Sweeper
+    item = Ampharosite
+    ability = Thick Fat
+    evs = 252, 0, 0, 0, 32, 224 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Timid
+    moves = Thunderbolt, Dragon Pulse, Tail Glow, Agility
+    paste = Ampharos-Mega @ Ampharosite  
+Ability: Thick Fat    
+EVs: 252 HP / 32 SpD / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dragon Pulse  
+- Tail Glow  
+- Agility
+    comment = Ampharos becomes an impressive wall when it mega evolves and utilizes the ability Thick Fat to mitigate its weaknesses, leaving it weak only to fairy, dragon, and ground types.
+Ampharos’s EV distribution allows Mega Ampharos to outspeed Ash-Greninja after one Agility while maintaining bulk to have longevity for Tail Glow to augment its special attack stat to extreme levels.
+Ampharos makes use of its two STAB attacks to hit most of the meta at least neutrally with a sizable amount of damage (usually to OHKO) after Tail Glow.
+Other options may allow Hidden Power or Focus Blast to cater to specific threats 
+
+    tags = Normal, Gimmick
+}
