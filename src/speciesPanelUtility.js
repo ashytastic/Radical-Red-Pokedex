@@ -707,10 +707,6 @@ function createSpeciesStrategy(strategy, speciesName){
 				strategyExportButton.classList.add("exportFailure")
 				strategyExportButton.innerText = "Nuh uh"
 				console.log(e)
-				setTimeout(() => {
-						strategyExportButton.classList.remove("exportFailure")
-						strategyExportButton.innerText = "Export"
-						}, "3000");
 			}
               
         })
