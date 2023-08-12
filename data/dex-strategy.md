@@ -1264,7 +1264,8 @@ Adamant Nature
 - Swords Dance
 - Close Combat
 - Roost
-    comment = Scizor can work as a sweeper that can end fights after one swords dance as long as its checks are dead. Close Combat smacks opposing steel types and other steel resists very hard. Knock Off can hit ghost types that don't get hit too hard by bullet punch or Close Combat such as aegislash gholdengo and jellicent. Roost is an amazing option due to Scizor's decent bulk. As for Swords Dance and Bullet Punch, it's usage is pretty obvious as its your main attack and you Swords Dance each chance you get. tags = Normal-Mode, Offensive 
+    comment = Scizor can work as a sweeper that can end fights after one swords dance as long as its checks are dead. Close Combat smacks opposing steel types and other steel resists very hard. Knock Off can hit ghost types that don't get hit too hard by bullet punch or Close Combat such as aegislash gholdengo and jellicent. Roost is an amazing option due to Scizor's decent bulk. As for Swords Dance and Bullet Punch, it's usage is pretty obvious as its your main attack and you Swords Dance each chance you get. 
+	tags = Normal-Mode, Offensive 
 }
 Ampharos Mega
 {
