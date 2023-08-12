@@ -697,12 +697,20 @@ function createSpeciesStrategy(strategy, speciesName){
 				navigator.clipboard.writeText(paste).then(() => {                
                     strategyExportButton.classList.add("exportSuccess")
                     strategyExportButton.innerText = "Exported"
+					setTimeout(() => {
+						strategyExportButton.classList.remove("exportSuccess")
+						strategyExportButton.innerText = "Export"
+						}, "3000");
 				})
 			}
 			catch(e){
 				strategyExportButton.classList.add("exportFailure")
 				strategyExportButton.innerText = "Nuh uh"
 				console.log(e)
+				setTimeout(() => {
+						strategyExportButton.classList.remove("exportFailure")
+						strategyExportButton.innerText = "Export"
+						}, "3000");
 			}
               
         })
