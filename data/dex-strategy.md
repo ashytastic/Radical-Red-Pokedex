@@ -1291,3 +1291,134 @@ Other options may allow Hidden Power or Focus Blast to cater to specific threats
 
     tags = Normal, Gimmick
 }
+Scizor Mega
+{
+    name = Mega Scizor
+    item = Scizorite
+    ability = Technician
+    evs = 248, 0, 28, 0, 232, 0// HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Careful
+    moves = Bullet Punch, Rock Smash / Close Combat, Swords Dance / Curse, Roost
+    paste = Scizor-Mega @ Scizorite  
+Ability: Technician  
+Tera Type: Bug  
+EVs: 248 HP / 28 Def / 232 SpD  
+Careful Nature  
+- Bullet Punch  
+- Rock Smash  
+- Swords Dance  
+- Roost
+    comment = Mega Scizor is best utilized as a bulky sweeper, using its defense and recovery to boost its attack to deliver strong priority attacks with Bullet Punch.
+Mega Scizor should be considered over its base form when the team requires a more substantial wall for pivoting and setting up.
+Mega Scizor’s EV distribution allows it enough defense to tank attacks from most notable physical attackers while also providing enough special defense to make it bulky on both sides and allow it to stay in on would-be checks.
+Bullet Punch serves as Mega Scizor’s primary STAB attack while Rock Smash provides it with a no-risk coverage move against opposing steel type Pokémon. Swords Dance and Roost work simultaneously to augment Mega Scizor’s attack while keeping it healthy to provide its team sweeping potential.
+Other options may allow Mega Scizor to be an even bulkier tank with Curse or a stronger wall-breaker with Close Combat. Superpower may be considered for Curse sets as it compromises bulk less significantly than Close Combat. 
+
+    tags = Normal, Defense
+}
+Heracross Mega
+{
+    name = 185 base attack seems kinda good
+    item = Heracronite
+    ability = Skill Link
+    nature = Adamant/Jolly
+    moves = Pin Missile, Arm Thrust, Rock Blast, Bullet Seed
+	paste = Heracross-Mega @ Heracronite
+Ability: Skill Link
+Jolly Nature
+- Arm Thrust
+- Pin Missile
+- Rock Blast
+- Bullet Seed
+    comment = Mega Heracross has the 2nd highest attack stat in the game, just behind Mega Mewtwo X. Along with this massive attack stat of 185, it has 125BP STAB moves with no drawbacks. These combined means it has some of the highest damage output in the game with no boosting required. 
+Along with the damage output, it has okay bulk. It can usually take about two hits before dieing/switching out.
+These two factors make for a very good Pokémon that is useful on many teams. 
+tags = Hardcore, Offensive 
+}
+Gholdengo
+{
+    name = Golden
+    item = Choice Specs/Choice Scarf
+    ability = Good as Gold
+    nature = Modest
+    moves = Make It Rain, Shadow Ball, Thunderbolt, Dazzling Gleam/Psychic/Focus Blast
+    paste = Golden (Gholdengo) @ Choice Specs
+Ability: Good as Gold
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Thunderbolt
+- Dazzling Gleam
+comment = Gholdengo is one of the most dangerous pokemon in RR, having virtually no pokemon that can safely switch in to its attacks. Not only that, its steel and ghost dual typing is one of the best typings in the game, giving him a multitude of switch in opportunities. With Specs, Stab Make it Rain and Shadow Ball turn into nukes on any pokemon that dares face off against it. Thunderbolt is nice for any water types trying to switch into its steel moves. For your last coverage move, you get to choose whatever fits into the fight. Focus Blast is nice for any steel or normal types trying to switch in on your STAB attacks. Dazzling is nice for any Dragons or Dark types attempting to predict your shadow ball. Finally, Psychic is nice for, again, fighting types trying to switch into your steel move. See what fight lays ahead, and change your last coverage move accordingly!
+tags = Normal, Offensive, MGM
+}
+Golem A
+{
+    name = Dynamite
+    item = Choice Band
+    ability = Galvanize
+    nature = Adamant
+    moves = Explosion, Double Edge, Superpower, Earthquake
+    paste = Dynamite (Golem A) @ Choice Band
+Ability: Galvanize
+Adamant Nature
+- Explosion
+- Double Edge
+- Superpower
+- Earthquake
+  comment = Golem-A has one of the single highest damage moves in the game, combining its ability and its item. Explosion is a 150 base power move that halves the opponents defense; which combined with Galvanize turns it into both an electric type move and increases the power by 1.2x, and Choice Band which increases its power by 1.5x. All of this is coming from a base 120 Attacking stat. This, in turn, makes it so almost any non-ground type cannot switch in without getting KO'd. It basically is a fun way to 1 for 1 the opponent. But you don't have to just explode. Double edge, while not as powerful, does a ton of damage to anyone standing in front without sacrificing yourself. Superpower is a nice coverage move for a variety of typings. Finally, Earthquake is a solid coverage move, hitting ground and steel types thinking they can switch in for free extremely hard. This set might not be the best thing in RR, but it is a ton of fun to use!
+  tags = Normal, Gimmick, Offensive, MGM
+}
+Cincinno
+{
+    name = Mouse
+    item = Loaded Dice
+    ability = Technician
+    nature = Jolly
+    moves = Tail Slap, Bullet Seed, Rock Blast, Knock Off/Triple Axel/U-Turn/Encore
+    paste = Mouse (Cincinno) @ Loaded Dice
+Ability: Technician
+Jolly Nature
+- Tail Slap
+- Bullet Seed
+- Rock Blast
+- Triple Axel
+  comment = Cincinno is one of the best users of Loaded Dice in RR, due to its moveset allowing it numerous multi-hit moves, and technician which powers up these moves to enormous levels. Tail Slap, Bullet Seed, and Rock Blast are all great multi-hit moves that are technician boosted and are generally good coverage. However, Cincinno suffers from "4 move syndrome." It really wants more than 4 moves, so it's up to you which one you choose last for coverage. Triple Axel is amazing, with loaded dice making it so it only has to pass one accuracy check in order to hit all 3 times. Great for the plethora of late game dragons in RR. Knock Off is one of the best moves in Pokemon, you can never go wrong pressing this move. U-Turn is great for momentum due to Cincinno's 115 speed tier outspeeding a ton of threats. Finally, Encore is nice for any pokemon that dares set-up on you. You simply Encore, then switch into a different threat that counters your opponent. Each of these moves are good in different situations, so plan accordingly!
+  tags = Normal, Offensive, MGM
+}
+Bewear
+{
+    name = Bewear
+    item = Leftovers
+    ability = Fluffy
+    evs = 4, 252, 252, 0, 0, 0 // HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Impish
+    moves = Bulk Up, Protect, Drain Punch, Shadow Claw
+    paste =  Bewear @ Leftovers
+Ability: Fluffy
+EVs: 4 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Bulk Up
+- Protect
+- Drain Punch
+- Shadow Claw
+    comment = Bewear's Alolan heritage gave it the right to bear arms and is it gonna flex those fluffy arms with bulk up. Bewear can take loads of physical damage and dish out even more while Protect let Bewear eat its leftover in between tanking physical attack. Drain punch's sustainability and Shadow Claw for coverage are self explanatory. This set can trivialize most physical threat and even sweep Bruno and Lance after their respective special attackers are taken out.
+P/s: Lance and Blue are idiots that prioritize super effective stab on Salamence and Metagross over their fire coverages
+    tags = Normal, Defense, Sweeper
+}
+Sceptile Mega
+{
+    name = Mega Sceptile
+    item = Sceptilite
+    ability = Technician
+    nature = Jolly
+    moves = Bullet Seed, Dual Chop, Rock Tomb, Earthquake/Bulldoze
+	paste = Sceptile-Mega @ Sceptilite  
+Ability: Technician  
+Jolly Nature  
+- Bullet Seed  
+- Dual Chop  
+- Rock Tomb  
+- Bulldoze
+	comment = Recognized as one of the most powerful Megas in the entire game, Mega Sceptile boasts excellent physical attack (further boosted by Technician) as well as frankly insane speed. The moves listed give M-Scep excellent coverage and make the most of Technician, with Earthquake vs. Bulldoze depending on whether you want slightly more power or a speed drop. It has excellent matchups against Rain Lorelei, being able to destroy Palkia, Mega Swampert, and damaged Dragonite. It’s less good against Hail Lorelei, but it destroys Tapu Fini with 3+ Bullet Seed and can whack Slush Rush mons with Rock Tomb. Against Bruno, M-Scep beats Zeraora, most mons if they're already decently damaged, or anyone that has suffered a defense drop from their own Close Combat. Against Agatha, it can OHKO Krookodile with 4+ Bullet Seed, has a decent chance of beating Victini with Rock Tomb + Earthquake, and can clean up a weakened Mega Mewtwo X or Yveltal. Against Lance, M-Scep has a practically guaranteed chance to one-shot Mega Rayquaza, can destroy damaged Dragonite, and can hit his other mons decently hard. Where Mega Sceptile REALLY shines is against the Primal Kyogre champ teams. Mega Sceptile is able to utterly DESTROY Primal Kyogre, Mega Swampert, Walking Wake, and Ultra Necrozma, AND it is able to do over ¾ of Eternamax Eternatus’ health with a single Dual Chop. Its only poor matchups are against the Arceus forms and Xerneas, but that’s what your other teammates are for, and being able to potentially solo 4-5 mons single-handedly is an insanely effective performance that most other Pokémon simply can’t replicate. While it can’t deal with every threat in the Hardcore E4, Mega Sceptile remains an insanely powerful Mega, and one that you can only now get in the endgame for a reason.
+}
