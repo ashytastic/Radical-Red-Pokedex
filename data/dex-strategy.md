@@ -1359,7 +1359,7 @@ Golem A
     ability = Galvanize
     nature = Adamant
     moves = Explosion, Double Edge, Superpower, Earthquake
-    paste = Dynamite (Golem A) @ Choice Band
+    paste = Dynamite (Golem-Alola) @ Choice Band
 Ability: Galvanize
 Adamant Nature
 - Explosion
@@ -1369,14 +1369,14 @@ Adamant Nature
   comment = Golem-A has one of the single highest damage moves in the game, combining its ability and its item. Explosion is a 150 base power move that halves the opponents defense; which combined with Galvanize turns it into both an electric type move and increases the power by 1.2x, and Choice Band which increases its power by 1.5x. All of this is coming from a base 120 Attacking stat. This, in turn, makes it so almost any non-ground type cannot switch in without getting KO'd. It basically is a fun way to 1 for 1 the opponent. But you don't have to just explode. Double edge, while not as powerful, does a ton of damage to anyone standing in front without sacrificing yourself. Superpower is a nice coverage move for a variety of typings. Finally, Earthquake is a solid coverage move, hitting ground and steel types thinking they can switch in for free extremely hard. This set might not be the best thing in RR, but it is a ton of fun to use!
   tags = Normal, Gimmick, Offensive, MGM
 }
-Cincinno
+Cinccino
 {
     name = Mouse
     item = Loaded Dice
     ability = Technician
     nature = Jolly
     moves = Tail Slap, Bullet Seed, Rock Blast, Knock Off/Triple Axel/U-Turn/Encore
-    paste = Mouse (Cincinno) @ Loaded Dice
+    paste = Mouse (Cinccino) @ Loaded Dice
 Ability: Technician
 Jolly Nature
 - Tail Slap
@@ -1421,4 +1421,45 @@ Jolly Nature
 - Rock Tomb  
 - Bulldoze
 	comment = Recognized as one of the most powerful Megas in the entire game, Mega Sceptile boasts excellent physical attack (further boosted by Technician) as well as frankly insane speed. The moves listed give M-Scep excellent coverage and make the most of Technician, with Earthquake vs. Bulldoze depending on whether you want slightly more power or a speed drop. It has excellent matchups against Rain Lorelei, being able to destroy Palkia, Mega Swampert, and damaged Dragonite. It’s less good against Hail Lorelei, but it destroys Tapu Fini with 3+ Bullet Seed and can whack Slush Rush mons with Rock Tomb. Against Bruno, M-Scep beats Zeraora, most mons if they're already decently damaged, or anyone that has suffered a defense drop from their own Close Combat. Against Agatha, it can OHKO Krookodile with 4+ Bullet Seed, has a decent chance of beating Victini with Rock Tomb + Earthquake, and can clean up a weakened Mega Mewtwo X or Yveltal. Against Lance, M-Scep has a practically guaranteed chance to one-shot Mega Rayquaza, can destroy damaged Dragonite, and can hit his other mons decently hard. Where Mega Sceptile REALLY shines is against the Primal Kyogre champ teams. Mega Sceptile is able to utterly DESTROY Primal Kyogre, Mega Swampert, Walking Wake, and Ultra Necrozma, AND it is able to do over ¾ of Eternamax Eternatus’ health with a single Dual Chop. Its only poor matchups are against the Arceus forms and Xerneas, but that’s what your other teammates are for, and being able to potentially solo 4-5 mons single-handedly is an insanely effective performance that most other Pokémon simply can’t replicate. While it can’t deal with every threat in the Hardcore E4, Mega Sceptile remains an insanely powerful Mega, and one that you can only now get in the endgame for a reason.
+}
+Gallade Mega
+{
+    name = Peerless Blademaster
+    item = Galladite
+    ability = Sharpness
+    nature = Jolly
+    moves = Leaf Blade/Shadow Claw, Psycho Cut, Sacred Sword, Cut/Triple Axel
+    paste = Peerless Blademaster (Gallade-Mega) @ Galladite
+Ability: Sharpness
+EVs = Hardcore
+Jolly Nature
+Leaf Blade/Shadow Claw
+Psycho Cut
+Sacred Sword
+Triple Axel/Cut
+	comment = Mega Gallade is back and better than ever, thanks to the introduction of the new Sharpness ability that gives a more consistent 1.5x power boost to cutting moves compared to the old Blademaster. Not only does Mega Gallade pack a lot of power and solid special bulk and speed, but it also has a frankly insane movepool coverage that covers many types, including Grass, Water, Dark, Rock, Steel, Ice (as Triple Axel, no less), Ghost, among others. What’s even better is that many of these moves come with an increased crit chance, meaning that even if you couldn’t kill something in one hit normally, a cheeky crit might get the job done for you and tip you over the edge into a OHKO anyway. Mega Gallade also has Thunder Wave and Encore for supporting options. Encore is revered amongst HC players for being able to troll setup mons, and Thunder Wave ensures that even if Mega Gallade can’t quite secure the kill on something, paralyzing it and leaving it in red health is pretty much as good as killing it anyway. Mega Gallade is capable of taking down many dangerous targets in the HC E4 by itself, but it stands out as one of the best Megas to kill Eternamax Eternatus with. Not only does it have a solid chance of beating Eternamax Eternatus outright, but if it comes in on a damaged one, it’s possible that EE might waste its turns on Recover and let Mega Gallade kill it for free. Overall, Mega Gallade is a highly powerful and versatile Mega that is made even better thanks to the buff to Sharpness.
+	tags = Hardcore, Offensive
+}
+Skuntank
+{
+    name = Sucker Punch
+    item = Life Orb
+    ability = Aftermath
+    evs = 0, 192, 0, 64, 0, 252// HP, Atk, Def, Sp.Atk, Sp.Def, Speed
+    nature = Naughty
+    moves = Sucker Punch, Poison Jab, Fire Blast, Defog
+    paste = Skuntank @ Life Orb  
+Ability: Aftermath  
+Tera Type: Poison  
+EVs: 192 Atk / 64 SpA / 252 Spe  
+Naughty Nature  
+- Sucker Punch  
+- Poison Jab  
+- Fire Blast  
+- Defog
+    comment = Skunktank is objectively not a good Pokémon but its typing yields certain resistances and immunities that some teams may look for, giving it very niche usage.
+Skunktank’s buff to SpAtk gives it slightly better performance in its coverage thanks to access to Fire Blast but its greatest asset is its STAB Sucker Punch alongside utility in defog or taunt.
+Skuntank runs SpAtk EVs to boost Fire Blast enough to OHKO certain steel type Pokémon. 
+
+    tags = Normal, Utility
 }
