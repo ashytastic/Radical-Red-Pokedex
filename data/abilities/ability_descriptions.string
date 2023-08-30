@@ -639,7 +639,7 @@ Fire-type hits raise Attack.\nImmune to burn.
 #org @DESC_ORICHALCUM_PULSE
 Sets Sun for 5 turns.\nBoosts Atk by 30% in Sun.
 
-#org @DESC_HADRONE_ENGINE
+#org @DESC_HADRON_ENGINE
 Set E.Terrain for 5 turns\nUp Sp.Atk by 30% in it
 
 #org @DESC_PURIFYING_SALT
